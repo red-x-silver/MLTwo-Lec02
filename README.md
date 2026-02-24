@@ -1,1 +1,1 @@
-# MLTwo-Lec02 Sound Classification
+# MLTwo Lec02 Sound Classification
